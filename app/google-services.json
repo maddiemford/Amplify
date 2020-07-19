@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412261706231",
+    "firebase_url": "https://amplifyvoices-ada22.firebaseio.com",
+    "project_id": "amplifyvoices-ada22",
+    "storage_bucket": "amplifyvoices-ada22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412261706231:android:8ada4391c817ea3944a6f2",
+        "android_client_info": {
+          "package_name": "com.example.timefighter.amplify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412261706231-cq7qk144lk6lohf9vafjhhs7fn56rlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbaH4r05dDtC4KjrcZ1SQQIxvCkNiW3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412261706231-cq7qk144lk6lohf9vafjhhs7fn56rlnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
