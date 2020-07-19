@@ -1,0 +1,4 @@
+#Sun Jul 19 01:42:01 EDT 2020
+base.0=C\:\\Users\\0wner\\AndroidStudioProjects\\Amplify\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

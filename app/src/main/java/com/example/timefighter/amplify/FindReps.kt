@@ -16,7 +16,7 @@ import java.net.URL
 import java.net.HttpURLConnection;
 
 class FindReps : AppCompatActivity() {
-    val API_KEY = "AIzaSyAaZgPMcLjQm5BIsQ4hjXD1_BIwE2YiQno"
+    val API_KEY = ""
     lateinit var address: String
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

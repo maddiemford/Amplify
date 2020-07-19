@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">412261706231-cq7qk144lk6lohf9vafjhhs7fn56rlnv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://amplifyvoices-ada22.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">412261706231</string>
+    <string name="google_api_key" translatable="false">AIzaSyAYbaH4r05dDtC4KjrcZ1SQQIxvCkNiW3E</string>
+    <string name="google_app_id" translatable="false">1:412261706231:android:8ada4391c817ea3944a6f2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYbaH4r05dDtC4KjrcZ1SQQIxvCkNiW3E</string>
+    <string name="google_storage_bucket" translatable="false">amplifyvoices-ada22.appspot.com</string>
+    <string name="project_id" translatable="false">amplifyvoices-ada22</string>
+</resources>
